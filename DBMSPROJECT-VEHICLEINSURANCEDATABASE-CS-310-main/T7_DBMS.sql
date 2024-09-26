@@ -291,7 +291,7 @@ INSERT INTO T7_CUSTOMER VALUES (580, 'Himanshu', 'Shekhar', '1984-10-21', 'M', '
 INSERT INTO T7_CUSTOMER VALUES (660, 'Chaitanya', 'Reddy', '1983-05-29', 'M', '112 Monroe Street', 8327182046, 'chaitanya1983@gmail.com', 'AMIE3241', 'Married', 753053145524);
 INSERT INTO T7_CUSTOMER VALUES (740, 'John', 'Smith', '1995-03-01', 'F', '602 Lighthouse Drive', 2047825582, 'john.smith@gmail.com', 'PCKA2197', 'Single', 631469447322);
 INSERT INTO T7_CUSTOMER VALUES (820, 'Joan', 'Smith', '1997-02-11', 'F', '701 Spadafore Drive', 4875243506, 'joan.smith@gmail.com', 'CJQM7842', 'Married', 590441142265);
-INSERT INTO T7_CUSTOMER VALUES (900, 'Pooja', 'Shah', '2000-02-29', 'F', '808 Ethels Lane', 5202069757, 'pooja.shah@gmail.com', 'CPLW2379', 'Married', 143406375182);
+INSERT INTO T7_CUSTOMER VALUES (900, 'Prashant', 'Shah', '2000-02-29', 'F', '808 Ethels Lane', 5202069757, 'pooja.shah@gmail.com', 'CPLW2379', 'Married', 143406375182);
 INSERT INTO T7_CUSTOMER VALUES (980, 'Anushka', 'Patel', '2002-11-14', 'F', '408 Milford Street', 3280963102, 'anushka.patel@gmail.com', 'PUEH7235', 'Single', 175474023282);
 INSERT INTO T7_CUSTOMER VALUES (1060, 'Priyanka', 'Sharma', '1999-07-25', 'F', '901 Derek Drive', 6749005685, 'priyanka.sharma@gmail.com', 'PXLA7221', 'Married', 761550582014);
 INSERT INTO T7_CUSTOMER VALUES (1140, 'Neha', 'Chawla', '1998-04-04', 'F', '402 Cantebury Drive', 4883762154, 'neha.chawla@gmail.com', 'LCNW5516', 'Single', 392972069488);
